@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Books API Example</string>
+
+    <string name="noNetworkStringTooltip">Error, do you have network?</string>
+    <string name="emptySearchStringTooltip">I need more, be creative…</string>
+    <string name="errorInDataTooltip">Error in data</string>
+    <string name="resultsTooltip">Results: %1$d</string>
+
+    <string name="bookTitleInfoString">Title: %1$s\n\n</string>
+    <string name="bookAuthorInfoString">Author: %1$s\n\n</string>
+    <string name="bookDescriptionInfoString">Description: %1$s\n\n</string>
+    <string name="bookPublishedDateInfoString">Published date: %1$s\n\n</string>
+    <string name="bookPublisherInfoString">Publisher: %1$s\n\n</string>
+    <string name="initialSearchString">android</string>
+    <string name="searchStringTooltip">Enter search text and press Search</string>
+    <string name="searchButtonText">Search</string>
+    <string name="backButtonText">Back</string>
+</resources>
